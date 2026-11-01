@@ -1,6 +1,6 @@
 # Lab 1: Node.js and Express Server
 
-**Deployment URL:** Not applicable – see Postman/browser screenshots below
+**Deployment URL:** (https://backend-labs-aurora.onrender.com/)
 
 ---
 
@@ -165,19 +165,21 @@ The following screenshots demonstrate the endpoint responses.
 
 ### 1. Home Endpoint – GET /
 
-![Home endpoint](screenshots/home.png)
+![alt text](screenshots/image.png)
+
+
 
 ### 2. About Endpoint – GET /about
 
-![About endpoint](screenshots/about.png)
+![alt text](screenshots/image_copy.png)
 
 ### 3. Time Endpoint – GET /time
 
-![Time endpoint](screenshots/time.png)
+![alt text](screenshots/image_copy_2.png)
 
 ### 4. Unknown Route – 404 Response
 
-![Unknown route](screenshots/unknown.png)
+![alt text](screenshots/image_copy_3.png)
 
 ---
 
