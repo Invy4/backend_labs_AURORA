@@ -1,0 +1,18 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "description": "Lab 1 - Node.js HTTP module and Express server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:http": "node http-server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "ANKAM CHARAN",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
