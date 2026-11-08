@@ -1,0 +1,4 @@
+POST http://localhost:3000/books
+Content-Type: application/json
+
+{"title": "Dune", "authors": "Frank Herbert", "average_rating": 4.23, "num_pages": 412}
