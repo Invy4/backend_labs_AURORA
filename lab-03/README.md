@@ -12,7 +12,7 @@
 | **Registration Number** | 252U1R1013 |
 | **Section** | 223 2A |
 | **Course** | Backend Development Fundamentals |
-| **Lab** | Lab 1 – Node.js and Express Server |
+| **Lab** | Lab 3 – REST API, Query Parameters, Validation, Debugging |
 
 ---
 
