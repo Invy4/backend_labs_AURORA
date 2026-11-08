@@ -176,7 +176,7 @@ The following screenshots demonstrate the REST API endpoint responses using Post
 
 ### 2. GET /books/:id (Single Book)
 
-![[INSERT GET SINGLE BOOK SCREENSHOT HERE]](screenshots/get_book_id.png)
+![[INSERT GET SINGLE BOOK SCREENSHOT HERE]](screenshots/get_books_id.png)
 
 ### 3. POST /books (Successful Creation - 201)
 
